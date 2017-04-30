@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      rogue # change to rogue per https://help.github.com/articles/using-syntax-highlighting-on-github-pages/ 
+highlighter:      rouge # change to rouge per https://help.github.com/articles/using-syntax-highlighting-on-github-pages/ 
 
 # Permalinks
 permalink:        pretty
