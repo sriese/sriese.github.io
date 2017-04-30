@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rogue # change to rogue per https://help.github.com/articles/using-syntax-highlighting-on-github-pages/ 
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true # deprecated per https://help.github.com/articles/page-build-failed-relative-permalinks-configured/
+
+# Setup
+title:            'S Riese'
+tagline:          ''
+description:      'A Descent Into Madness'
+url:              https://sriese.github.io
+baseurl:          /
+
+author:
+  name:           'S Riese'
+  url:            https://sriese.github.io
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
